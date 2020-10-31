@@ -1,0 +1,30 @@
+ user ID 123 logged in 
+
+ user ID 123 logged in 
+
+ user ID 123 logged in 
+ user ID 123 logged in 
+ Book with BID = 321and title =harry potter 1 added in inventory 
+ user ID 123 bought book with book ID = 321
+ ryan , user ID 100 logged in 
+ user ID 100 logged in 
+ user ID 100 logged in 
+ user ID 100 logged in 
+ Book with BID = 100and title =Harry potter part 1 added in inventory 
+ user ID 100 logged in 
+ user ID 100 bought book with book ID = 100
+ user ID 100 logged in 
+ user ID 123 logged in 
+ user ID  logged in 
+ user ID 100 logged in 
+ user ID 100 logged in 
+ Book with BID = 100and title =harry [potter added in inventory 
+ sagar , user ID 101 Registered in 
+ user ID 101 logged in 
+ user ID 101 logged in 
+  , user ID  Registered in 
+ user ID  logged in 
+ user ID  logged in 
+ user ID  logged in 
+ user ID  logged in 
+ user ID  logged in 
